@@ -1,1 +1,1 @@
-In this project your job is to implement Tic-Tac-Toe for two players. You also can try writing some AI to play the game. If you find it easy, try to make it unbeatable!
+Tic Tac Toe game for two players. You also can play against a friend, an AI or you can watch AI play against itself.
